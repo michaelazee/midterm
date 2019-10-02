@@ -64,6 +64,7 @@ h2, h3, h5, p, li {
 h2 {
  font-size: 40px;
  text-decoration: none;
+ font-color: black;
 }
 
 /* unvisited link */
