@@ -41,6 +41,7 @@ img {
   text-decoration: none;
   display: inline-block;
   margin: 4px 2px;
+margin-bottom: 10px;
   cursor: pointer;
   border-radius: 12px;
 }
@@ -86,7 +87,7 @@ text-decoration: none;
   h1 {
     font-size: 70px;
    font-family: "Notable", sans-serif;
-   color: #d4af37; 
+   color: #d4af37;
   }
 
 h2, h4 {
