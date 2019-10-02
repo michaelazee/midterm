@@ -5,6 +5,11 @@
     margin: 10px;
     
   }
+
+img {
+    display: block;
+    border: black;
+}
   
   .main {
     margin-bottom: 20px;
