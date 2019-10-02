@@ -35,12 +35,15 @@ img {
   }
   
   h1 {
-    font-family: "Merriweather", serif;
     font-size: 60px;
   }
 
 h2 {
  font-size: 40px;
+}
+
+h1, h2, h3, h5, p {
+ font-family: "Dosis", sans-serif;
 }
 
 /* unvisited link */
