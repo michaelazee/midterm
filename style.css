@@ -61,6 +61,10 @@ h2, h3, h5 {
 font-family: "Ultra", serif;
 }
 
+h3 {
+font-color: #A9A9A9;
+}
+
 p, li {
  font-family: "Didact Gothic", sans-serif;
 }
