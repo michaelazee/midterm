@@ -50,6 +50,28 @@ ul {
    color: #d4af37;
   }
 
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  float: right;
+  padding: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.button1 {
+  font-size: 12px;
+}
+
+a {
+text-decoration: none;
+}
+
 h2, h4 {
 font-family: "Wes", serif;
 }
