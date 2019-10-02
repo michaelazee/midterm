@@ -27,10 +27,12 @@ img {
   ul {
     text-align: center;
     margin: 10px;
+    background: #d4af37;
   }
   
   li {
     display: inline;
+    font: white;
   }
   
   h1 {
