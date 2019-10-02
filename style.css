@@ -1,11 +1,30 @@
-.grid-container {
-    display: grid;
-   grid-gap: 10px;
-    width: 40%;
-    background-color: black;
-    padding: 10px; 
-    text-align: center;  
-  }
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  border: black;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Each post as a box */
+.entry {
+  border: 3px solid black;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  padding: 20px 25px; 
+}
 
 img {
     display: block;
