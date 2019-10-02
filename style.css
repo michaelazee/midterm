@@ -13,6 +13,12 @@ img {
     border: black;
     text-align: center;
 }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
   
   .main {
     margin-bottom: 20px;
