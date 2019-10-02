@@ -32,7 +32,7 @@ img {
 }
 
 .button {
-  background-color: #d4af37;
+  background-color: black;
   border: none;
   color: white;
   float: right;
@@ -41,10 +41,8 @@ img {
   text-decoration: none;
   display: inline-block;
   margin: 4px 2px;
-margin-bottom: 10px;
   cursor: pointer;
   border-radius: 12px;
- padding-bottom: 20px;
 }
 
 .button1 {
@@ -89,7 +87,6 @@ text-decoration: none;
     font-size: 70px;
    font-family: "Notable", sans-serif;
    color: #d4af37;
-padding-top: 10px;
   }
 
 h2, h4 {
