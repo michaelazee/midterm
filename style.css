@@ -55,16 +55,16 @@ text-decoration: none;
    color: #d4af37; 
   }
 
-h2, h3 {
+h2, h4 {
 font-family: "Wes", serif;
 }
 
-h4 {
+h3, h5 {
 font-color: grey;
 }
 
 h3 {
-font-size: 40px;
+font-size: 30px;	
 }
 
 p, li, h4, h5, h6 {
