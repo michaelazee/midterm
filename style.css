@@ -36,8 +36,12 @@ img {
   
   h1 {
     font-family: "Merriweather", serif;
-    font-size: 50px;
+    font-size: 60px;
   }
+
+h2 {
+ font-size: 40px;
+}
 
 /* unvisited link */
 a:link {
