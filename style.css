@@ -33,6 +33,7 @@ img {
   li {
     display: inline;
     font: white;
+    margin: 30px;
   }
   
   h1 {
