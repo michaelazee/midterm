@@ -36,6 +36,7 @@ img {
   h1 {
     font-size: 60px;
    font-family: "Fredericka the Great", cursive;
+   font-color= #DAA520; 
   }
 
 h2, h3, h5, p, li {
