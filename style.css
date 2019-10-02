@@ -31,6 +31,24 @@ img {
     text-align: center;
 }
 
+.button {
+  background-color: #d4af37;
+  border: none;
+  color: white;
+  float: right;
+  padding: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.button1 {
+  font-size: 12px;
+}
+
 a {
 text-decoration: none;
 }
