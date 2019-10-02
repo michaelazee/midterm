@@ -50,11 +50,8 @@ text-decoration: none;
   }
   
   div {
-    border: black 2px;
     border-radius: 20px;
     padding: 10px;
-    box-shadow: 2px 5px black;
-    
   }
   
   ul {
