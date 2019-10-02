@@ -2,8 +2,6 @@
     display: inline-block;
     width: 40%;
     padding: 10px; 
-    margin: 10px;
-    margin-left: 15px;
     text-align: center;
     
   }
@@ -25,7 +23,7 @@ text-decoration: none;
 }
   
   .main {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     margin-top: 20px;
     text-align: center;
   }
