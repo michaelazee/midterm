@@ -67,16 +67,12 @@ h3 {
 font-size: 20px;	
 }
 
-h4 {
-font-size: 40px;
-}
-
 p, li, h3, h5, h6 {
  font-family: "Didact Gothic", sans-serif;
 }
 
 h2 {
- font-size: 50px;
+ font-size: 40px;
  text-decoration: none;
  font-color: black;
 }
