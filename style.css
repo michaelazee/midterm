@@ -57,15 +57,15 @@ text-decoration: none;
    color: #d4af37; 
   }
 
-h2, h3, h5 {
+h2, h3 {
 font-family: "Ultra", serif;
 }
 
-h3 {
+h4 {
 font-color: #A9A9A9;
 }
 
-p, li {
+p, li, h4, h5, h6 {
  font-family: "Didact Gothic", sans-serif;
 }
 
