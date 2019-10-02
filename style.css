@@ -57,12 +57,12 @@ text-decoration: none;
    color: #d4af37; 
   }
 
-h2, h3, h5, li {
- font-family: "Didact Gothic", sans-serif;
+h2, h3, h5 {
+font-family: "Marcellus", serif;
 }
 
-p {
-font-family: "Marcellus", serif;
+p, li {
+ font-family: "Didact Gothic", sans-serif;
 }
 
 h2 {
