@@ -30,7 +30,32 @@
   
   h1 {
     font-family: "Merriweather", serif;
-    font-size: 32px;
+    font-size: 50px;
   }
+
+/* unvisited link */
+a:link {
+	color: black;
+}
+
+/* visited link */
+a:visited {
+	color: pink;
+}
+
+/* mouse over link */
+a:hover {
+	color: purple;
+}
+
+/* selected link */
+a:active {
+	color: orange;
+}
+
+div {
+	width: 70%;
+	margin: 0 auto;
+}
   
   
