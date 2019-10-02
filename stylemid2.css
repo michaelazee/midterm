@@ -1,19 +1,8 @@
-/* Create two equal columns that float next to each other */
-.column {
-    float: right;
-    width: 20%;
-    padding: 10px;
-    border: black;
-    height: 300px; /* Should be removed. Only for demonstration */
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  
+.grid { 
+  width: 31%;
+  display: inline-block;
+}
+
   /* Each post as a box */
   .entry {
     border: 3px solid black;
