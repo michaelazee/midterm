@@ -2,21 +2,6 @@
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 /* Each post as a box */
 .entry {
   border: 3px solid black;
@@ -96,13 +81,14 @@ body {
    padding-bottom:60px;   /* Height of the footer */
 }
 
-#footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 2.5rem; /* Footer height */
-background: #d4af37;
-	font-color: white;
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #d4af37;
+   color: white;
+   text-align: center;
 }
 
   ul {
