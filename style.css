@@ -83,14 +83,9 @@ body {
 }
 
 .footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: #d4af37;
-   color: white;
-   text-align: center;
+background: #d4af37;
 }
+
 
   ul {
     text-align: center;
@@ -111,8 +106,13 @@ body {
    color: #d4af37;
   }
 
-h2, h4 {
-font-family: "Wes", serif;
+h4 {
+font-family: "Notable", sans-serif;
+font-size: 40px;
+}
+
+h5 {
+text-align: center;
 }
 
 h3, h5 {
@@ -131,6 +131,7 @@ h2 {
  font-size: 40px;
  text-decoration: none;
  font-color: black;
+font-family: "Wes", serif;
 }
 
 /* unvisited link */
