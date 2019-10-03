@@ -1,10 +1,4 @@
-.grid { 
-  width: 25%;
- height: 75%;
-  display: inline-block;
-}
-
-  /* Each post as a box */
+ /* Each post as a box */
   .entry {
     border: 3px solid black;
     margin-bottom: 15px;
