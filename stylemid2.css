@@ -40,6 +40,13 @@ ul {
     background: #d4af37;
   }
   
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
   li {
     display: inline;
     font: white;
