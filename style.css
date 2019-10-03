@@ -31,7 +31,7 @@ img {
     text-align: center;
 }
 
-grid {
+.grid {
 width: 31%;
 display: inline-block;
 }
@@ -96,10 +96,6 @@ body {
 #body {
    padding:10px;
    padding-bottom:60px;   /* Height of the footer */
-}
-
-#content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
 }
 
 #footer {
