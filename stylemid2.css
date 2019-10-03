@@ -16,6 +16,10 @@
   }
 
 /* Create two unequal columns that floats next to each other */
+.column {
+	float: left;
+}
+
 /* Left column */
 .leftcolumn { 
   width: 70%;
@@ -25,10 +29,6 @@
 .rightcolumn {
   width: 30%;
   padding-left: 10px;
-}
-
-.column {
-	float: left;
 }
 
 /* Add a card effect for articles */
