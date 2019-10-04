@@ -59,6 +59,21 @@ a {
 text-decoration: none;
 }
 
+#container {
+   min-height:100%;
+   position:relative;
+   height:100%;
+}
+
+#header {
+   padding:10px;
+}
+
+#body {
+   padding:10px;
+   padding-bottom:60px;   /* Height of the footer */
+}
+
 .footer {
 background-color: #d4af37;
 }
