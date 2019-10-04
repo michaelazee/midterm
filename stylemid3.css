@@ -146,7 +146,6 @@ padding-top: 40px;
   position: sticky;
   position: -webkit-sticky; /* required */
   top: 0;
-float: right;
 }
 
 .main {
