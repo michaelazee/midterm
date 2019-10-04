@@ -140,6 +140,7 @@ a:active {
   width: 25%;
   display: inline-block;
   float: right;
+ margin-top: 60px;
 }
 
 .main {
