@@ -30,8 +30,7 @@ text-decoration: none;
     padding: 10px;
   }
 
-div.sticky {
-  position: -webkit-sticky;
+.sticky {
   position: sticky;
   top: 0;
   padding: 50px;
