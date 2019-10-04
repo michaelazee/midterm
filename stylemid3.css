@@ -56,6 +56,11 @@ body {
 background-color: #d4af37;
 }
 
+twitter-tweet {
+width: 50%;
+height:50%;
+}
+
   ul {
     text-align: center;
     margin: 10px;
