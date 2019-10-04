@@ -143,11 +143,15 @@ a:active {
 padding-top: 40px;
 }
 
-.sticky {
-  position: -webkit-sticky;
+#sticky {
   position: sticky;
-  bottom: 1rem;
- align-self: flex-end;
+  position: -webkit-sticky;
+  width: 100px;
+  height: 100px;
+  top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .main {
