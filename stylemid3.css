@@ -107,6 +107,11 @@ p, li, h3, h4, h5, h6 {
  font-family: "Didact Gothic", sans-serif;
 }
 
+i {
+font size: 15px;
+display: inline;
+}
+
 h2 {
  font-size: 70px;
  text-decoration: none;
