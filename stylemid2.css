@@ -38,14 +38,7 @@ img.sticky {
 .grid { 
  margin-top: 20px;
   width: 75%;
- margin-left: 15px;
-}
-
-.main {
-  margin-bottom: 20px;
-  margin-top: 20px;
- display: inline;
- width: 75%;
+ margin-left: 15px;	
 }
   
   h1 {
