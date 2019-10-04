@@ -9,11 +9,11 @@
     border-radius: 15px;
     padding: 10px;  
   }
-  
-.column {
-  float: left;
-  padding: 10px;
-}
+
+  div {
+    border-radius: 20px;
+    padding: 10px;
+  }
 
 ul {
     text-align: center;
