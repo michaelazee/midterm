@@ -56,9 +56,10 @@ body {
 background-color: #d4af37;
 }
 
-twitter-tweet {
+.twitter-tweet {
 width: 50%;
 height:50%;
+display: inline;
 }
 
   ul {
