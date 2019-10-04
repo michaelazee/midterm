@@ -56,13 +56,6 @@ body {
 background-color: #d4af37;
 }
 
-blockquote.twitter-tweet {
-width: 50%;
-height:50%;
-display: inline;
-padding-left: 50px;
-}
-
   ul {
     text-align: center;
     margin: 10px;
@@ -98,7 +91,7 @@ font-color: grey;
 }
 
 h3 {
-font-size: 40px;
+font-size: 30px;
 font-color: grey;
 text-align: center;
 }
