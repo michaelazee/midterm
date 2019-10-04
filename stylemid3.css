@@ -144,7 +144,7 @@ a:active {
 padding-top: 40px;
  position: -webkit-sticky;
   position: sticky;
-  top: 0px; /* required */
+  top: 0px; /* Safari */
 }
 
 .main {
