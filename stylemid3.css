@@ -137,14 +137,17 @@ a:active {
 
 .grid { 
   width: 25%;
-  display: flex;
- align-items: flex-start;
+  display: inline-block;
   float: right;
  margin-top: 90px;
 padding-top: 40px;
- position: -webkit-sticky;
+}
+
+img.sticky {
+  position: -webkit-sticky;
   position: sticky;
-  top: 0px; /* Safari */
+  top: 0;
+  width: 200px;
 }
 
 .main {
