@@ -145,7 +145,7 @@ padding-top: 40px;
 .sticky {
   position: sticky;
   position: -webkit-sticky; /* required */
-  bottom: 0;
+  top: 0;
 }
 
 .main {
