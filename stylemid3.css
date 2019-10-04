@@ -56,10 +56,11 @@ body {
 background-color: #d4af37;
 }
 
-.twitter-tweet {
+blockquote.twitter-tweet {
 width: 50%;
 height:50%;
 display: inline;
+padding-left: 50px;
 }
 
   ul {
