@@ -6,15 +6,6 @@
     padding: 10px; 
   }
   
-  .main {
-    margin-top: 20px;
-    text-align: center;
-    display: inline;
-    width: 50%;
-    height: 60%;
-    float: left;
-  }
-
 .column {
   float: left;
   padding: 10px;
@@ -61,7 +52,8 @@ img.sticky {
   }
 
 .grid { 
-  width: 25%;
+ margin-top: 20px;
+  width: 75%;
   display: inline-block;
  margin-left: 15px;
 }
@@ -115,16 +107,16 @@ a {
 text-decoration: none;
 }
 
-h2 {
+h3 {
 font-family: "Wes", serif;
+font-size: 40px;
+text-align: center;
+font-color: #d4af37;
 }
 
-h3, h5 {
-font-color: grey;
-}
 
 h3 {
-font-size: 20px;	
+font-size: 0px;	
 }
 
 p, li, h3, h5, h6 {
