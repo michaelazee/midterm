@@ -124,6 +124,32 @@ h2 {
  font-color: black;
 }
 
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+#container {
+   min-height:100%;
+   position:relative;
+   height:100%;
+}
+
+#header {
+   padding:10px;
+}
+
+#body {
+   padding:10px;
+   padding-bottom:60px;   /* Height of the footer */
+}
+
+.footer {
+background-color: #d4af37;
+}
+
 /* unvisited link */
 a:link {
 	color: white;
