@@ -1,4 +1,8 @@
- /* Each post as a box */
+ * {
+  box-sizing: border-box;
+}
+
+/* Each post as a box */
   .entry {
     border: 3px solid black;
     margin-bottom: 15px;
@@ -9,26 +13,6 @@
 .column {
   float: left;
   padding: 10px;
-}
-
-/* Middle column */
-.column.middle {
-  width: 75%;
- height: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Add a card effect for articles */
-.card {
-   background-color: white;
-   padding: 20px;
-   margin-top: 20px;
 }
 
 ul {
