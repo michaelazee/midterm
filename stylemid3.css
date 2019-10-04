@@ -139,7 +139,8 @@ a:active {
   width: 25%;
   display: inline-block;
   float: right;
- margin-top: 60px;
+ margin-top: 90px;
+padding-top: 40px;
  position: -webkit-sticky;
   position: sticky;
   top: 0;
