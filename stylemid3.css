@@ -30,14 +30,6 @@ text-decoration: none;
     padding: 10px;
   }
 
-.sticky {
- position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 50px;
-  font-size: 20px;
-}
-
 html,
 body {
    margin:0;
@@ -148,6 +140,9 @@ a:active {
   display: inline-block;
   float: right;
  margin-top: 60px;
+ position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
 
 .main {
