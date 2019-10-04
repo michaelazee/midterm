@@ -1,0 +1,70 @@
+ul {
+    text-align: center;
+    margin: 10px;
+    background: #d4af37;
+  }
+  
+  li {
+    display: inline;
+    font: white;
+    margin: 30px;
+    font-size: 20px;
+  }
+
+  h1 {
+    font-size: 40px;
+   font-family: "Notable", sans-serif;
+   color: #d4af37;
+  }
+
+h4 {
+font-family: "Notable", sans-serif;
+font-size: 30px;
+color: white;
+}
+
+h5 {
+text-align: center;
+font-color: black;
+font-size: 20px;
+}
+
+h3, h5 {
+font-color: grey;
+}
+
+h3 {
+font-size: 20px;	
+}
+
+p, li, h3, h5, h6 {
+ font-family: "Didact Gothic", sans-serif;
+}
+
+h2 {
+ font-size: 40px;
+ text-decoration: none;
+ font-color: black;
+font-family: "Wes", serif;
+}
+
+/* unvisited link */
+a:link {
+	color: white;
+}
+
+/* visited link */
+a:visited {
+	color: black;
+}
+
+/* mouse over link */
+a:hover {
+	color: purple;
+}
+
+/* selected link */
+a:active {
+	color: pink;
+}
+
