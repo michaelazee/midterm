@@ -31,7 +31,8 @@ font-size: 20px;
 
 h3 {
 font-color: grey;
-font-size: 20px;	
+text-align: center;
+font-size: 30px;	
 }
 
 .center {
@@ -63,7 +64,7 @@ p, li, h3, h4, h5, h6 {
 }
 
 h2 {
- font-size: 50px;
+ font-size: 60px;
  text-decoration: none;
  font-color: black;
 font-family: "Wes", serif;
