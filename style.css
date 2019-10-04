@@ -19,6 +19,7 @@ img {
 .grid { 
   width: 31%;
   display: inline-block;
+ margin-left: 10px;
 }
 
 .main {
