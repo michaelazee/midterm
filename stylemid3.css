@@ -70,13 +70,12 @@ background-color: #d4af37;
   }
   
   h1 {
-    font-size: 50px;
+    font-size: 40px;
    font-family: "Notable", sans-serif;
    color: #d4af37;
   }
 
 h4 {
-font-family: "Notable", sans-serif;
 font-size: 20px;
 text-align: center;
 }
@@ -97,12 +96,12 @@ font-color: grey;
 text-align: center;
 }
 
-p, li, h3, h5, h6 {
+p, li, h3, h4, h5, h6 {
  font-family: "Didact Gothic", sans-serif;
 }
 
 h2 {
- font-size: 60px;
+ font-size: 70px;
  text-decoration: none;
  font-color: black;
 font-family: "Wes", serif;
