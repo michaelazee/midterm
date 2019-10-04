@@ -66,6 +66,20 @@ font-size: 20px;
 	margin-right: auto;
 }
 
+.grid { 
+  width: 25%;
+  display: inline-block;
+  float: right;
+}
+
+.main {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 70%;
+  float: left;
+  display: inline-block;
+}
+
 a {
 text-decoration: none;
 }
