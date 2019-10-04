@@ -59,6 +59,19 @@ img.sticky {
     margin: 30px;
     font-size: 20px;
   }
+
+.grid { 
+  width: 25%;
+  display: inline-block;
+ margin-left: 15px;
+}
+
+.main {
+  margin-bottom: 20px;
+  margin-top: 20px;
+ display: inline;
+ width: 75%;
+}
   
   h1 {
     font-size: 70px;
