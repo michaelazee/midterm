@@ -142,7 +142,7 @@ a:active {
 padding-top: 40px;
 }
 
-img.sticky {
+sticky {
   position: sticky;
   position: -webkit-sticky;
   top: 0;
