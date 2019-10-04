@@ -137,7 +137,7 @@ a:active {
 
 .grid { 
   width: 25%;
-  display: inline-block;
+  display: flex;
  align-items: flex-start;
   float: right;
  margin-top: 90px;
