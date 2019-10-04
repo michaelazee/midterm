@@ -52,13 +52,8 @@ font-size: 50px;
 font-family: "Notable", sans-serif;
 color: #d4af37;
 text-align: center;
-display: inline;
  margin-top: 15px;
 padding: 15px 15px;
-}
-
-header {
-background: url ('https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/70770812_2359497090965764_4260094613982806016_o.jpg?_nc_cat=104&_nc_oc=AQnaEgizL0rO5NQ1gtKzGN1wrEx71UcJyMUG7HnybiEMzfrqkyteELgAB9hjvABZj5w&_nc_ht=scontent-lga3-1.xx&oh=512be7a31e77730619456fb091ec532c&oe=5E2DBDF3');
 }
 
 .button {
@@ -89,7 +84,7 @@ font-size: 40px;
 text-align: center;
 }
 
-p, li, h3, h5, h6 {
+p, li, h5, h6 {
  font-family: "Didact Gothic", sans-serif;
 }
 
