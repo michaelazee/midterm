@@ -138,13 +138,13 @@ a:active {
 .grid { 
   width: 25%;
   float: right;
- margin-top: 90px;
+ margin-top: 80px;
 padding-top: 40px;
 }
 
 .sticky {
   position: sticky;
-  position: -webkit-sticky;
+  position: -webkit-sticky; /* required */
   top: 0;
 float: right;
 }
