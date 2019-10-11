@@ -135,7 +135,10 @@ h2 {
  font-size: 40px;
  font-color: black;
 font-family: "Wes", serif;
-hover: underline;
+}
+
+h2 a:hover {
+text-decoration: underline;
 }
 
 /* unvisited link */
