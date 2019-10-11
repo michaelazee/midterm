@@ -135,6 +135,7 @@ h2 {
  font-size: 40px;
  font-color: black;
 font-family: "Wes", serif;
+hover: underline;
 }
 
 /* unvisited link */
