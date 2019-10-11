@@ -138,7 +138,7 @@ font-family: "Wes", serif;
 }
 
 /* mouse over link */
-h2 a:hover {
+h2:hover {
 text-decoration: underline;
 }
 
